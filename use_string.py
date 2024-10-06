@@ -1,25 +1,8 @@
 """
 Developer : cristina lugo
 creation date : 21-sept-2024
-Description: Program to learn basic concepts.
+Description: Program to learn the use of strings.
 Updates: TBD
-"""
-"""
-# Examples with function of print().
-print(" Welcome to course of Basic Knownlegde of \n Programming with Python \
-      .......................................")
-
-print("Only I am string ")
-num_five = 5
-print(num_five)
-print (" Coverting this number to string " + str(num_five)) 
-
-# Examples with function of input() and concatenation.
-name = input('What is your name?\n')
-conc1 = 'Hola ' + name
-print(conc1)
-conc2 = name + ' please continue to fill the form'
-print(conc2)
 """
 # Examples to review methods of strins
 concatatenation_one = 'amigo'
@@ -27,8 +10,6 @@ concatatenation_one_upper = concatatenation_one.upper()
 concatatenation_one_low = concatatenation_one.lower()
 concatatenation_one_cap = concatatenation_one.capitalize()
 
-import pdb
-pdb.set_trace()
 
 # Examples convert int to string then concatenation with a validation.
 concatatenation_one = 'amigo'
