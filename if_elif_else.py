@@ -90,6 +90,5 @@ if "naranja" in color:
     print("Es color naranja")
 else:
     print("No es color naranja")
-import pdb
-pdb.set_trace()
+
 
